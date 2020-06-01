@@ -1,0 +1,1 @@
+Slew bearing drive designed and 3D printed by me. Inspired by other designs, tolerances may vary. Stell 6mm balls have been used. grease reccomended.
